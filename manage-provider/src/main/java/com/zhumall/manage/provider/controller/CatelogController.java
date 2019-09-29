@@ -49,7 +49,6 @@ public class CatelogController {
 
     @RequestMapping("saveAttrInfo")
     public void saveAttrInfo(@RequestBody PmsBaseAttrInfo pmsBaseAttrInfo) {
-        System.out.println(pmsBaseAttrInfo);
         catalogService.saveAttrInfo(pmsBaseAttrInfo);
     }
 }

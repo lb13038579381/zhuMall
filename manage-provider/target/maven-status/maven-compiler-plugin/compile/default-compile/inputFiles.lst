@@ -1,1 +1,14 @@
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/dao/PmsBaseSaleAttrMapper.java
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/controller/SpuController.java
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/service/impl/SpuServiceImpl.java
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/service/CatalogService.java
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/service/SpuService.java
 /home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/controller/CatelogController.java
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/dao/PmsBaseAttrInfoMapper.java
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/dao/PmsBaseCatalog2Mapper.java
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/dao/PmsProductInfoMapper.java
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/service/impl/CatalogServiceImpl.java
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/dao/PmsBaseAttrValueMapper.java
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/dao/PmsBaseCatalog3Mapper.java
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/dao/PmsBaseCatalog1Mapper.java
+/home/zhuzhu/IdeaProjects/zhuMall/manage-provider/src/main/java/com/zhumall/manage/provider/manageProviderApplication.java

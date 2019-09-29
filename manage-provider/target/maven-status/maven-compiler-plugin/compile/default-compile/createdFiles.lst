@@ -1,0 +1,14 @@
+com/zhumall/manage/provider/dao/PmsProductInfoMapper.class
+com/zhumall/manage/provider/service/impl/CatalogServiceImpl.class
+com/zhumall/manage/provider/service/SpuService.class
+com/zhumall/manage/provider/service/impl/SpuServiceImpl.class
+com/zhumall/manage/provider/service/CatalogService.class
+com/zhumall/manage/provider/controller/SpuController.class
+com/zhumall/manage/provider/dao/PmsBaseCatalog2Mapper.class
+com/zhumall/manage/provider/manageProviderApplication.class
+com/zhumall/manage/provider/controller/CatelogController.class
+com/zhumall/manage/provider/dao/PmsBaseAttrValueMapper.class
+com/zhumall/manage/provider/dao/PmsBaseCatalog3Mapper.class
+com/zhumall/manage/provider/dao/PmsBaseSaleAttrMapper.class
+com/zhumall/manage/provider/dao/PmsBaseAttrInfoMapper.class
+com/zhumall/manage/provider/dao/PmsBaseCatalog1Mapper.class
